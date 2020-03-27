@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "antd": "4.0.4",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "3.8.3"
+  },
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": ""
+}
